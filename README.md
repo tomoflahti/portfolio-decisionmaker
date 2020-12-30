@@ -1,5 +1,5 @@
 # Development Portfolio Decision Tool
-Building AI course project - 
+Building AI course project - initial skeleton setup for Python DataViz tools
 
 ## Summary
 An AI-powered portfolio decision making tool - that takes input from historical data and WSJF (weighted shortest job first) analysis and provides a heatmap on given architectural areas.
